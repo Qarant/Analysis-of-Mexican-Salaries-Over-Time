@@ -1,1 +1,2 @@
 ### Proyecto de Analisis de salarios por sexo y estado en México
+This project focuses on analyzing Mexican salaries over time using data obtained from the official INEGI website. It involves data cleaning processes and the application of statistical methods and predictive models to explore salary trends across different states of Mexico, segmented by gender.
